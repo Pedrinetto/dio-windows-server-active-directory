@@ -150,7 +150,9 @@ As capturas de tela das perguntas, respostas e citações serão adicionadas dur
 
 ## 🔗 Acesso ao NotebookLM
 
-**Link do notebook:** A inserir após configurar e testar o compartilhamento.
+**Acesse o Segundo Cérebro:**
+
+[🧠 Windows Server & Active Directory | NotebookLM](https://notebook.google.com/notebook/77cb6536-b908-4473-a337-8a9c58345c53)
 
 ## 🚀 Tecnologias e Ferramentas
 
