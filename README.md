@@ -103,37 +103,6 @@ O Active Directory (AD DS) é um serviço de diretório que armazena dados sobre
 
 ![Resposta do NotebookLM sobre Active Directory](./evidencias/pergunta-01.png)
 
-### Pergunta 2: Instalação
-
-**Pergunta:** Como instalar e configurar o Active Directory Domain Services em um Windows Server?
-
-**Resposta obtida:** A registrar após o teste.
-
-**Fonte citada:** A registrar após o teste.
-
-### Pergunta 3: Administração
-
-**Pergunta:** Qual é a diferença entre uma Unidade Organizacional (OU), um grupo de segurança e uma GPO?
-
-**Resposta obtida:** A registrar após o teste.
-
-**Fonte citada:** A registrar após o teste.
-
-### Pergunta 4: DNS
-
-**Pergunta:** Por que o DNS é fundamental para o funcionamento do Active Directory?
-
-**Resposta obtida:** A registrar após o teste.
-
-**Fonte citada:** A registrar após o teste.
-
-### Pergunta 5: Troubleshooting
-
-**Pergunta:** Como investigar problemas de autenticação de usuários em um domínio corporativo?
-
-**Resposta obtida:** A registrar após o teste.
-
-**Fonte citada:** A registrar após o teste.
 
 ## 📂 Materiais Gerados
 
