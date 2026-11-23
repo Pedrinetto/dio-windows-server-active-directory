@@ -115,7 +115,13 @@ Os arquivos estão disponíveis na pasta [`materiais`](./materiais).
 
 ## 📸 Evidências
 
-As capturas de tela das perguntas, respostas e citações serão adicionadas durante a validação do notebook.
+As evidências demonstram que o NotebookLM responde utilizando as fontes técnicas selecionadas, apresentando citações que permitem verificar a origem das informações.
+
+### Evidência 1: Resposta fundamentada no Microsoft Learn
+
+![Resposta do NotebookLM com citações](./evidencias/pergunta-01.png)
+
+**Fonte utilizada:** Microsoft Learn - Visão geral do Active Directory Domain Services.
 
 ## 🔗 Acesso ao NotebookLM
 
