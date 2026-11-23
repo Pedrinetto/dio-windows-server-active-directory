@@ -86,13 +86,22 @@ As principais diretrizes definidas foram:
 
 Esta seção documentará as consultas realizadas no NotebookLM, incluindo respostas e suas fontes.
 
-### Pergunta 1: Fundamentos
 
-**Pergunta:** Qual é a diferença entre Windows Server, Active Directory, domínio e controlador de domínio?
+### Pergunta 1: Fundamentos do Active Directory
 
-**Resposta obtida:** A registrar após o teste.
+**Pergunta:** O que é o Active Directory e qual sua principal função em uma rede corporativa? Responda em até 3 linhas e cite a fonte utilizada.
 
-**Fonte citada:** A registrar após o teste.
+**Resposta do NotebookLM:**
+
+O Active Directory (AD DS) é um serviço de diretório que armazena dados sobre os objetos da rede (como usuários e computadores) em uma estrutura hierárquica. Sua principal função corporativa é centralizar a autenticação de logon, a autorização e o controle de acesso de segurança a todos os recursos da rede.
+
+**Fonte citada:**
+
+[Visão geral do Active Directory Domain Services | Microsoft Learn](https://learn.microsoft.com/pt-br/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
+
+**Evidência da resposta com citações:**
+
+![Resposta do NotebookLM sobre Active Directory](./evidencias/pergunta-01.png)
 
 ### Pergunta 2: Instalação
 
